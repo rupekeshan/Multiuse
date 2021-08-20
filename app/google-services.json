@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "749491034585",
+    "project_id": "multiuse-790e9",
+    "storage_bucket": "multiuse-790e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749491034585:android:e4b275f5c6dd6094f321c8",
+        "android_client_info": {
+          "package_name": "com.rupekeshan.multiuse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "749491034585-70rjival5avvne6cb7niaibc3e8138fc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz2rE08RDdiQmm0UYfHk3BFD6kB20scTQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "749491034585-70rjival5avvne6cb7niaibc3e8138fc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
